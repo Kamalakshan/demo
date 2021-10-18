@@ -1,0 +1,72 @@
+{
+    "settings.getready.enabled": true,
+    "settings.timer.enabled": true,
+    "settings.timer.duration": 15,
+  
+   
+  "course": [
+    {
+      "title": "Soil Formation",
+      "url": "video url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Rocks",
+      "url": "video url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Atmosphere",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "History",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Geography",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+
+
+    {
+      "title": "Soil Formation",
+      "url": "video url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Rocks",
+      "url": "video url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Atmosphere",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "History",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+    {
+      "title": "Geography",
+      "url": "vido url",
+      "subtitle": "Example Sub Title"
+    },
+      {
+        "title": "Example Title 4",
+        "url": "vido url",
+        "subtitle": "Example Sub Title 4"
+      },
+      {
+        "title": "Example Title 5",
+        "url": "vido url",
+        "subtitle": "Example Sub Title 5"
+      }
+    ],
+    "workbench.colorTheme": "Monokai"
+  }
